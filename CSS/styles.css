@@ -1,0 +1,36 @@
+body {
+  background-color: #1a1a1a;
+  color: white;
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto Mono', monospace;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.Kien {
+  width: 30%;
+  padding: 20px;
+}
+
+img {
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+}
+
+.class {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+}
+
+.link {
+  color: white;
+}
