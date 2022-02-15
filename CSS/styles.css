@@ -14,6 +14,28 @@ body {
 .Kien {
   width: 30%;
   padding: 20px;
+  border-right-style: solid
+}
+
+.Life {
+  margin: 20px;
+}
+
+.p {
+  margin: 10px;
+}
+
+.Work {
+  display: flex;
+  margin-bottom: 15px;
+}
+
+.School {
+  margin-bottom: 15px;
+}
+
+header {
+  margin-bottom: 10px;
 }
 
 img {
