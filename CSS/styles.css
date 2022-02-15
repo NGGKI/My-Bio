@@ -31,7 +31,7 @@ body {
 }
 
 .School {
-  margin-bottom: 15px;
+  margin-top: 20px;
 }
 
 header {
@@ -55,9 +55,16 @@ img {
   color: white;
 }
 
+.header {
+  border-bottom: 2px solid white;
+  width: fit-content
+}
+
 @media screen and (max-width: 900px) {
   .Kien {
     border-right-style: none;
+    flex-direction: column;
+    width: 100%;
   }
 
   h1 {
